@@ -6,9 +6,9 @@ description: https://github.com/viraptor/reverse-interview
 ---
 # Reverse interview
 
-> 原文:[viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
-> 原文作者:[Stanisław Pitucha(viraptor)](https://github.com/viraptor)
-> 翻譯:[kimi0230](https://github.com/kimi0230)
+> - 原文:[viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
+> - 原文作者:[Stanisław Pitucha(viraptor)](https://github.com/viraptor)
+> - 翻譯:[kimi0230](https://github.com/kimi0230)
 
 下面列表裡的問題對於參加技術面試的人來說可能有些用.
 列表裡的問題並不一定適用於某個特定的職位或者工作類型, 也沒有排序.
@@ -74,7 +74,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 * 團隊裡資深跟資淺的工程師比例是多少? (未來有計劃改變嗎?)
 * 入職訓練是什麼?
 * 獨自開發和按部就班工作的比例大概是怎樣?
-* 每天預期/核心工作時間是多少小時？
+* 每天預期/核心工作時間是多少小時?
 * 你覺得在此職位怎樣算是成功?
 * 你預期在前 1 ~ 3 個月需要我完成什麼目標?
 * 你如何評估試用期的表現?
@@ -82,6 +82,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 * 是否還有什麼問題要問我?
 * 在工作上我會跟哪些人比較密集的合作
 * 我的主管和更上級的主管是什麼樣的管理風格?(事無鉅細 or 著眼宏觀)
+* 我在這個職位該如何發展, 會有什麼機會?
 
 - What's the on-call plan/schedule? (what's the pay for standby and call-out)
 - What are the tasks I would do on a usual day?
@@ -100,6 +101,24 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How can I develop in my new role / what opportunities are offered?
 
 # Tech
+* 公司常用哪些技術棧?
+* 你們怎麼使用版控?
+* 你們怎麼測試的?
+* 你們怎麼追蹤bug?
+* 你們怎麼監控專案?
+* 你們怎麼整合和部署改動的程式碼?是使用 CI/CD 部署嗎?
+* 你們從計劃到完成一個任務的工作流程是怎樣?
+* 你們如何準備故障修復?
+* 有標準的開發環境嗎?是強制的嗎?
+* 你們建置一個本地的開發環境需要多久?
+* 你們需要花多長久來解決安全問題與相依性問題?
+* 所有的開發者都可以使用他們電腦的本機admin權限?
+* 可以介紹一下你們的技術原則或展望嗎?
+* 你們有程式開發的文件嗎?有沒有單純給消費者使用的文件?
+* 你們有沒有更高層的開發文件, 譬如 ER diagrams (entity relationship diagra, 實體聯絡模型), DB schema
+* 你們有使用靜態代碼分析嗎?
+* 你們如何管理內部和外部的資產?
+* 你們如何管理依賴?
 
 - What are the usual stacks used at the company?
 - How do you use source control?
