@@ -297,8 +297,16 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 7. What are the big challenges you see coming up?
 8. What have you identified as your competitive advantage?
 
-# Remote Work
-
+---
+# Remote Work (遠端工作)
+1. 遠端工作和辦公室工作的比例是多少?
+2. 公司提供電腦等硬體設備嗎? 是否有換新計劃?
+3. 你如何看待自備電腦設備 [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)?是否已經有相關政策?
+4. 額外的附件和家具可以通過公司購買嗎?這方面是否有預算?
+5. 有共享辦公室或者上網的預算嗎?
+6. 多久需要去辦公室?
+7. 公式會議室是否都配備視訊裝置?
+#####
 1. What's the ratio of remote to office workers?
 2. Does the company provide hardware and what's the refresh schedule?
 3. How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
@@ -307,8 +315,10 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 6. How often are office visits expected?
 7. Are the office meeting rooms always prepared for video conferences?
 
+---
 # Building Layout
 
+#####
 1. What's the office layout? (open plan / cubicles / offices)
 2. Is there a support / marketing / other call-heavy team close to my new team?
 
