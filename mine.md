@@ -20,6 +20,8 @@
 17. 你們從計劃到完成一個任務的工作流程是怎樣? `What's the workflow from the planning to the finished task?`
 18. 你們有固定的調薪嗎?
 19. 團隊成員特質是什麼?
+20. 這個職缺要找怎樣的人?
+    
 ---
 ## 問工程師
 1. 公司常用哪些技術棧? `What are the usual stacks used at the company?`
@@ -28,12 +30,16 @@
 2. 你最喜歡這裡的什麼地方? `What do you like best about working there?`
 5. 你認為目前遇到最大的挑戰是什麼? `What are the big challenges you see coming up?`
 4. 你如何知道你每天要做什麼?
+   
 ...
 
 ---
 ## 問HR
 1. 你一開始為什麼會選擇這家公司? `What got you to choose to work for the company initially?`
 2. 你為什麼會留在這家公司? `What keeps you at the company?`
+3. 你最喜歡這裡的什麼地方? `What do you like best about working there?`
+4. 你們有固定的調薪嗎?
+5. 可以介紹一下這邊的環境嗎?
 
 
 ## 問領導階層
