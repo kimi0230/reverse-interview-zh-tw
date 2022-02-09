@@ -367,7 +367,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 7. What is the policy for sabbatical leave?
 
 ---
-# Other resources
+# Other resources (其他資源)
 
 Find more inspiration for questions in:
 
