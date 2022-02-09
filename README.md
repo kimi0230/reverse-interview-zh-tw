@@ -85,7 +85,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 14. 我的主管和更上級的主管是什麼樣的管理風格?(事無鉅細 or 著眼宏觀)
 15. 我在這個職位該如何發展, 會有什麼機會?
 
-#####
+##### 原文
 1. What's the on-call plan/schedule? (what's the pay for standby and call-out)
 2. What are the tasks I would do on a usual day?
 3. Are there any specific goals for me?
@@ -124,7 +124,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 18. 你們如何管理內部和外部的資產?
 19. 你們如何管理依賴?
 
-#####
+##### 原文
 1. What are the usual stacks used at the company?
 2. How do you use source control?
 3. How do you test code?
@@ -167,7 +167,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 18. 你們如何共享知識,資訊?
 19. 這團隊有多大?
 
-#####
+##### 原文
 1. How is the work organised?
 2. How does the intra/inter-team communication typically work?
 3. Do you use any tools for project organization? What is your experience with them?
@@ -197,7 +197,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 5. 團隊最老的成員待多久?
 6. 如果在小團隊, 出現團員個性互相衝突的情況, 你們是如何解決的?
 
-#####
+##### 原文
 1. Who do developers tend to learn from?
 2. What do you like best about working there?
 3. What do you like least?
@@ -226,7 +226,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 17. 公司支援開源項目嗎?
 18. 團隊/公司舉辦什麼樣的社交活動,每個人都參加嗎?
 19. 為什麼公司決定聘請外部人員而不是提拔內部員工？
-#####
+##### 原文
 1. Why is the company hiring? (product growth / new product / fluctuation / ...)
 2. Is there a conference/travel budget and what are the rules to use it?
 3. What's the promotion process? How are requirements / expectations communicated?
@@ -253,7 +253,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 2. 您認為公司文化的差距在哪裡?(什麼是公司文化?)
 3. 你認為這裡的工作跟生活的平和如何?
 4. 公司對氣候的變化持有什麼態度?
-#####
+##### 原文
 1. What's the status of / view on diverse hiring?
 2. What do you think are the gaps in the company culture? (and what is the company culture?)
 3. What does work-life balance mean here?
@@ -268,7 +268,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 4. 如果有人指出流程/技術/等方面需要改進的地方,怎麼處理?
 5. 當管理成預期和工程師的績效之間有差去的時候如何處理?
 6. 可以說說公司如何處理有毒環境?
-#####
+##### 原文
 1. How are differences of opinions resolved?
 2. What happens after pushback? ("this can't be done in the projected time")
 3. What happens when the team is under pressure and commits to work over their capacity / velocity?
@@ -287,7 +287,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 7. 你認為目前遇到最大的挑戰是什麼?
 8. 你認為你們的競爭優勢是什麼?
    
-#####
+##### 原文
 1. Are you profitable?
 2. If not, how long is your runway?
 3. Where does the funding come from and who influences the high level plan/direction?
@@ -306,7 +306,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 5. 有共享辦公室或者上網的預算嗎?
 6. 多久需要去辦公室?
 7. 公司會議室是否都配備視訊裝置?
-#####
+##### 原文
 1. What's the ratio of remote to office workers?
 2. Does the company provide hardware and what's the refresh schedule?
 3. How do you feel about [BYOD](https://en.wikipedia.org/wiki/Bring_your_own_device)? Are there any policies around it already?
@@ -319,7 +319,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 # Building Layout (辦公室佈局)
 1. 辦公室的佈局如何?(開放式 / 小隔間 / 獨立辦公室)
 2. 是否有支援/ 市場/ 或者其他會有大量電話打入的團隊在我們團隊附近?
-#####
+##### 原文
 1. What's the office layout? (open plan / cubicles / offices)
 2. Is there a support / marketing / other call-heavy team close to my new team?
 
@@ -328,7 +328,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 1. 在這個職缺/團隊/公司工作的最好和最壞的方面是什麼?
 2. 你一開始為什麼會選擇這家公司?
 3. 你為什麼會留在這家公司?
-#####
+##### 原文
 1. What's the best and what's the worst aspect of working in this role / team / company?
 2. What got you to choose to work for the company initially?
 3. What keeps you at the company?
@@ -341,7 +341,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 3. 有 401k(us)或者其他退休養老金等福利嗎? 如果有, 公司是否有配套的商業保險嗎?
 4. 有醫療福利嗎?如果有,什麼時候開始?
 5. 更換工作地點,公司有提供費用嗎?
-#####
+##### 原文
 1. If you have a bonus scheme, then how are bonuses determined?
 2. If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
 3. Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
@@ -357,7 +357,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 5. 有什麼育兒的政策嗎?
 6. 無薪休假政策是什麼樣的?
 7. 年假的政策是什麼?
-#####
+##### 原文
 1. How much Paid Time Off (PTO) is offered?
 2. Are sick time and vacation time separate or do they come from the same pool?
 3. Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
