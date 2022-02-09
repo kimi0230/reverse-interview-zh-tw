@@ -335,14 +335,20 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 ---
 
-# Compensation
-
+# Compensation (待遇)
+1. 公司是否獎金計劃, 獎金是如何分配的?
+2. 過去幾年這裡通常發百分之幾的獎金?
+3. 有 401k(us)或者其他退休養老金等福利嗎? 如果有, 公司是否有配套的商業保險嗎?
+4. 有醫療福利嗎?如果有,什麼時候開始?
+5. 更換工作地點,公司有提供費用嗎?
+#####
 1. If you have a bonus scheme, then how are bonuses determined?
 2. If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
 3. Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
 4. Are there medical benefits and if so, when do they start?
 5. Do you pay for relocation?
 
+---
 # Time Off
 
 1. How much Paid Time Off (PTO) is offered?
