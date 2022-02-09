@@ -10,11 +10,13 @@
 * 你們怎麼測試的? `How do you test code?`
 * 你們怎麼追蹤bug? `How do you track bugs?`
 * 你們怎麼監控專案? `How do you monitor projects?`
+* 發生意見分歧如何解決? `How are differences of opinions resolved?`
 ...
 
 ---
 ## 問工程師
 * 公司常用哪些技術棧? `What are the usual stacks used at the company?`
+* 發生意見分歧如何解決? `How are differences of opinions resolved?`
 ...
 
 ---

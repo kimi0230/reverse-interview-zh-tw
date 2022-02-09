@@ -248,15 +248,27 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 19. Why did the company decide to hire an outsider over promoting an internal employee?
 
 ---
-# Social issues
-
+# Social issues (社交問題)
+1. 你們對多元化招聘的看法?
+2. 您認為公司文化的差距在哪裡?(什麼是公司文化?)
+3. 你認為這裡的工作跟生活的平和如何?
+4. 公司對氣候的變化持有什麼態度?
+#####
 1. What's the status of / view on diverse hiring?
 2. What do you think are the gaps in the company culture? (and what is the company culture?)
 3. What does work-life balance mean here?
 4. Does the company have a stance regarding climate change?
 
-# Conflict
+---
 
+# Conflict (衝突)
+1. 發生意見分歧如何解決?
+2. 如果被退回了會怎樣?("這個在預計的時間內做不完") 同[the-team-團隊no.6](#the-team-團隊)
+3. 當團隊面臨壓力且工作量超負荷時, 怎麼處理？
+4. 如果有人指出流程/技術/等方面需要改進的地方,怎麼處理?
+5. 當管理成預期和工程師的績效之間有差去的時候如何處理?
+6. 可以說說公司如何處理有毒環境?
+#####
 1. How are differences of opinions resolved?
 2. What happens after pushback? ("this can't be done in the projected time")
 3. What happens when the team is under pressure and commits to work over their capacity / velocity?
@@ -264,6 +276,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 5. When there is a gap between expectations from management and performance of an engineer or team, what happens?
 6. Could you tell me a story about a toxic situation and how the company dealt with it?
 
+---
 # The Business
 
 1. Are you profitable?
