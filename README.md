@@ -181,7 +181,13 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you share knowledge?
 - How big are the teams?
 
-# Your Potential Coworkers
+# Your Potential Coworkers (未來的同事)
+* 開發者頃向於向誰學習?
+* 你最喜歡這裡的什麼地方?
+* 你最不滿意這裡的什麼的地方?
+* 如果可以你想改變什麼地方?
+* 團隊最老的成員待多久?
+* 如果在小團隊, 出現團員個性互相衝突的情況, 你們是如何解決的?
 
 - Who do developers tend to learn from?
 - What do you like best about working there?
