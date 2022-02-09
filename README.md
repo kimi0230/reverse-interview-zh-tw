@@ -277,8 +277,17 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 6. Could you tell me a story about a toxic situation and how the company dealt with it?
 
 ---
-# The Business
-
+# The Business (商業)
+1. 請問公司是否有盈利?
+2. 如果沒有的話, 還需要多久?
+3. 公司的資金來源是什麼? 誰影響或制定了最高的決定跟方向?
+4. 你們如何獲利的?
+5. 什麼東西阻礙了獲利?
+6. 公司未來一年/五年的增長計劃是什麼?
+7. 你認為目前遇到最大的挑戰是什麼?
+8. 你認為你們的競爭優勢是什麼?
+   
+#####
 1. Are you profitable?
 2. If not, how long is your runway?
 3. Where does the funding come from and who influences the high level plan/direction?
