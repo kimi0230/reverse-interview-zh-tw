@@ -325,10 +325,15 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 ---
 # Catch all (終極問題)
-
+1. 在這個職缺/團隊/公司工作的最好和最壞的方面是什麼?
+2. 你一開始為什麼會選擇這家公司?
+3. 你為什麼會留在這家公司?
+#####
 1. What's the best and what's the worst aspect of working in this role / team / company?
 2. What got you to choose to work for the company initially?
 3. What keeps you at the company?
+
+---
 
 # Compensation
 
