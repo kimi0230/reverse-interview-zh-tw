@@ -305,7 +305,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 4. 額外的附件和家具可以通過公司購買嗎?這方面是否有預算?
 5. 有共享辦公室或者上網的預算嗎?
 6. 多久需要去辦公室?
-7. 公式會議室是否都配備視訊裝置?
+7. 公司會議室是否都配備視訊裝置?
 #####
 1. What's the ratio of remote to office workers?
 2. Does the company provide hardware and what's the refresh schedule?
@@ -316,13 +316,15 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 7. Are the office meeting rooms always prepared for video conferences?
 
 ---
-# Building Layout
-
+# Building Layout (辦公室佈局)
+1. 辦公室的佈局如何?(開放式 / 小隔間 / 獨立辦公室)
+2. 是否有支援/ 市場/ 或者其他會有大量電話打入的團隊在我們團隊附近?
 #####
 1. What's the office layout? (open plan / cubicles / offices)
 2. Is there a support / marketing / other call-heavy team close to my new team?
 
-# Catch all
+---
+# Catch all (終極問題)
 
 1. What's the best and what's the worst aspect of working in this role / team / company?
 2. What got you to choose to work for the company initially?
