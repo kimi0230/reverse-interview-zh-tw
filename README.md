@@ -349,8 +349,15 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 5. Do you pay for relocation?
 
 ---
-# Time Off
-
+# Time Off (休假)
+1. 帶薪的休假有幾天?
+2. 病假跟事假是分開還是一起算?
+3. 我可以預支帶薪的休假嗎?
+4. 帶薪的休假何時刷新?
+5. 有什麼育兒的政策嗎?
+6. 無薪休假政策是什麼樣的?
+7. 年假的政策是什麼?
+#####
 1. How much Paid Time Off (PTO) is offered?
 2. Are sick time and vacation time separate or do they come from the same pool?
 3. Can I use vacation time before it's accrued, effectively going into a negative PTO balance?
@@ -359,6 +366,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 6. What is the policy on unpaid leave?
 7. What is the policy for sabbatical leave?
 
+---
 # Other resources
 
 Find more inspiration for questions in:
