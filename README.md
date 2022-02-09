@@ -100,7 +100,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
 - How can I develop in my new role / what opportunities are offered?
 
-# Tech
+# Tech (技術)
 * 公司常用哪些技術棧?
 * 你們怎麼使用版控?
 * 你們怎麼測試的?
@@ -140,7 +140,26 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How do you manage internal / external artifacts?
 - How do you manage dependencies?
 
-# The Team
+# The Team (團隊)
+* 工作是怎麼組織的?
+* 團隊內/團隊間的交流通常是怎樣
+* 你們有使用什麼工具來組織project嗎? 你實際上有什麼體驗?
+* 如果遇到不同意見的話是怎麼處理的?
+* 是誰來決定優先順序/時程?
+* 如果被退回了會怎樣?("這個在預計的時間內做不完")
+* 如果團隊錯過發布目標時怎麼辦?
+* 每週都會開什麼類型會議?
+* 會有定期和主管一對一對談嗎?
+* 產品/服務的規劃是什麼樣的?(n週一發布 / 持續部署 / 多個發布流 / ...)
+* production環境發生問題了怎麼辦? 是否有不批評人而分析問題的文化?
+* 有沒有一些團隊正在遇到尚待解決的挑戰?
+* 你們如何追蹤進度
+* 預期和目標是如何設定的? 由誰決定?
+* 你們如何實施Code review的?
+* 可以介紹一下團隊裡如何執行一個典型的sprint嗎?
+* 你們如和平衡技術和商業目標?
+* 你們如何共享知識,資訊?
+* 這團隊有多大?
 
 - How is the work organised?
 - How does the intra/inter-team communication typically work?
