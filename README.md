@@ -66,6 +66,7 @@ Definitely don't try to ask everything from the list.
 Remember that things tend to be fluid, re-organizations happens often.
 Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn't mean your time to deliver is necessarily short.
 
+---
 # The Role (職責)
 
 1. 有無 on-call 的計畫或規定?(有無值班和加班的費用)
@@ -101,6 +102,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 14. What management style does my immediate manager and their manager have? (from micro- to macro-)
 15. How can I develop in my new role / what opportunities are offered?
 
+---
 # Tech (技術)
 1. 公司常用哪些技術棧?
 2. 你們怎麼使用版控?
@@ -143,6 +145,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 18. How do you manage internal / external artifacts?
 19. How do you manage dependencies?
 
+---
 # The Team (團隊)
 1. 工作是怎麼組織的?
 2. 團隊內/團隊間的交流通常是怎樣
@@ -185,6 +188,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 18. How do you share knowledge?
 19. How big are the teams?
 
+---
 # Your Potential Coworkers (未來的同事)
 1. 開發者頃向於向誰學習?
 2. 你最喜歡這裡的什麼地方?
@@ -201,8 +205,27 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 5. How long has the longest team member been there?
 6. If it's a small team, has there been experiences of conflicting personalities and how was this dealt with?
 
-# The Company
-
+---
+# The Company (公司)
+1. 為什麼公司在徵此職缺? (產品發展 / 新產品 / 波動 / ...)
+2. 有沒有會議/出差預算,跟使用規則?
+3. 晉升的流程,要求,預期怎樣勾通?
+4. 績效評估的流程是什麼?
+5. 技術和管理的職業路徑是分開的嗎?
+6. 公司是否有公司級別的學習資源, 譬如電子書訂閱, 線上課程等?
+7. 公司是否有預算提供證照考取?
+8. 公司目前的成熟度如何(早期尋找方向 / 有內容的工作 / 維護中 / ...)
+9. 我是否可以為開源項目做貢獻?需要經過批准嗎?
+10. 有競業條款或保密協議嗎?
+11. 你覺得公司未來5/10年會變成怎樣?
+12. 你覺得clean code 對這裡大部分的開發人員來說代表什麼?
+13. 你上一次注意到有人成長是什麼時候, 在哪方面成長了?
+14. 在這裡你覺得怎樣是成功, 如何衡量成功?
+15. 這裡有運動或者是團體活動嗎?
+16. 有內部的駭客松活動嗎?
+17. 公司支援開源項目嗎?
+18. 團隊/公司舉辦什麼樣的社交活動,每個人都參加嗎?
+19. 為什麼公司決定聘請外部人員而不是提拔內部員工？
 #####
 1. Why is the company hiring? (product growth / new product / fluctuation / ...)
 2. Is there a conference/travel budget and what are the rules to use it?
@@ -222,8 +245,9 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 16. Are there any Hackathons conducted internally?
 17. Does the company support open-source projects?
 18. What kind of social events does the team/company host and are these attended by everyone?
-19. Why did the company decide to hire an outsider over promoting an internal employee? 
+19. Why did the company decide to hire an outsider over promoting an internal employee?
 
+---
 # Social issues
 
 1. What's the status of / view on diverse hiring?
